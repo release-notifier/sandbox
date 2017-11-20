@@ -2,4 +2,4 @@
 
 Playground for GitHub App
 
-No bugs allowed :beetle:
+No bugs allowed :beetle:!
