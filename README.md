@@ -15,3 +15,5 @@ Add bugfix z
 Add bugfix a
 
 Add bugfix b
+
+Add bugfix c
