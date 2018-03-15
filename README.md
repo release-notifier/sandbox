@@ -9,3 +9,5 @@ Okay, bugs are allowed.
 Add feature x
 
 Add feature y
+
+Add bugfix z
