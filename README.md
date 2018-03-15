@@ -11,3 +11,5 @@ Add feature x
 Add feature y
 
 Add bugfix z
+
+Add bugfix a
